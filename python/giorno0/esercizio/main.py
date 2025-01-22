@@ -37,7 +37,7 @@ except ZeroDivisionError:
     print("Attenzione: divisione per zero, impossibile eseguirla.") #il risultato della somma di due numeri scelti dall'utente e/o della loro divisione, gestendo l'errore della divisione per zero
 
 print("BONUS")
-#(effettuato, però, avendo scaricato il file e non avendo effettuato il fork e push sulla repo)
+
 print("Il contenuto del documento 'Readme' è il seguente: ")
 file_toread = open('../../../../lez0/README.md')
 var_toread = file_toread.read()
